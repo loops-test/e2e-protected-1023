@@ -1,0 +1,28 @@
+{
+  "$schema": "https://docs.pageloop.ai/schema/v1.json",
+  "site": {
+    "name": "E2E Protected 1023",
+    "description": "Documentation powered by Pageloop"
+  },
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        {
+          "page": "index"
+        },
+        {
+          "page": "quickstart"
+        }
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        {
+          "page": "guides/writing-docs"
+        }
+      ]
+    }
+  ]
+}
